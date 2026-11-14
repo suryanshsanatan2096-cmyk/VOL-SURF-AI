@@ -1,4 +1,4 @@
-# VolSurfAI --- AI-Powered Volatility Surface Intelligence
+# VOL-SURF-AI 
 
 *Bringing Computer Vision and Deep Learning to the world of quantitative
 finance.*
